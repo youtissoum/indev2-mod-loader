@@ -11,7 +11,7 @@ Make a mod loader.
 # What we do I guess
 
 Step 1: come up with the ideas for how it actually works
- - Location of ideas: TODO #3 make location
+ - Location of ideas: TODO make location
 
 Step 2: pseudocode
  - or not
