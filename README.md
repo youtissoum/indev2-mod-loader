@@ -19,7 +19,7 @@ Mod Loader is gonna be a single mod which will be initially loaded by indev2 - t
 ## Warning! The next part of readme is complete bullshit
 
 Step 1: come up with the ideas for how it actually works
- - Location of ideas: TODO #3 make location
+ - Location of ideas: TODO make location
 
 Step 2: pseudocode
  - or not
